@@ -1,0 +1,42 @@
+{
+  "name": "redux-mongo-admin",
+  "description": "A MongoDB Admin system to be used with Mongoose",
+  "main": "main",
+  "author": {
+    "name": "Patrick Lemiuex"
+  },
+  "licence": "MIT",
+  "keywords": [
+    "nodejs",
+    "admin",
+    "django",
+    "express",
+    "mongoose",
+    "mongodb",
+    "bootstrap"
+  ],
+  "version": "0.0.9",
+  "private": false,
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodeminderjs/redux-mongo-admin"
+  },
+  "scripts": {
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha --reporter spec test/test-*.js"
+  },
+  "dependencies": {},
+  "readme": "redux-mongo-admin\n\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/reduxdj/redux-mongo-admin/issues"
+  },
+  "devDependencies": {
+    "coffee-script": ">= 1.7"
+  },
+  "_id": "redux-mongo-admin@0.0.9",
+  "_from": "redux-mongo-admin@latest"
+}
